@@ -10,3 +10,4 @@ SOLUZIONE:
 6 - Inserire il mount con l'id inserito nell'html;
 7 - Nel data inserire una variabile in scriviamo un messaggio all'interno dell'H1;
 8 - Stampare il messaggio in console;  
+
